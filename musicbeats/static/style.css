@@ -1,0 +1,22 @@
+.body{
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 75px;
+  text-align: center;
+  letter-spacing: -0.4px;
+  word-spacing: 1px;
+  color: #FFF3F3;
+  font-weight: 700;
+  text-decoration: underline solid rgb(68, 68, 68);
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: capitalize;
+}
